@@ -14,13 +14,13 @@ url: "https://realizor.github.io" # the base hostname & protocol for your site
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: messier_7
+twitter_username:
 facebook_username:
 github_username: realizor
 email:
 weibo_username:
 zhihu_username:
-linkedIn_username: pan-zhang-320096176
+linkedIn_username:
 dribbble_username:
 
 description_footer: 如切如磋，如琢如磨。
