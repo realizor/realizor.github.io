@@ -7,7 +7,7 @@
 
 # Site settings
 title: PZ
-brief-intro: a genetist
+brief-intro: a geneticist
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://realizor.github.io" # the base hostname & protocol for your site
 
@@ -23,7 +23,7 @@ zhihu_username:
 linkedIn_username: pan-zhang-320096176
 dribbble_username:
 
-description_footer: Life and Science
+description_footer: 点点滴滴
 
 # comments
 # two ways to comment, only choose one, and use your own short name
