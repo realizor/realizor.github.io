@@ -45,6 +45,7 @@ type: page
 * [Summer institute in social-science genomics](https://www.youtube.com/channel/UCpwuOWUVasa168eWFhX-48A/playlists)
 * [北京脑中心](https://space.bilibili.com/517791135/)
 * 行疆之路 [youtube](https://www.youtube.com/channel/UCi7SRwf5UjG4_ALGyOIHFFA) [bilibili](https://space.bilibili.com/19515012/)
+* 集智俱乐部 [bilibili](https://space.bilibili.com/233204821/) [集智学园](https://campus.swarma.org/)
 
 
 
