@@ -47,6 +47,11 @@ type: page
 * 行疆之路 [youtube](https://www.youtube.com/channel/UCi7SRwf5UjG4_ALGyOIHFFA) [bilibili](https://space.bilibili.com/19515012/)
 * 集智俱乐部 [bilibili](https://space.bilibili.com/233204821/) [集智学园](https://campus.swarma.org/)
 
+## Group
+* [Bogdan Pasaniuc](https://bogdan.dgsom.ucla.edu/pages/)
+* [Seunggeun (Shawn) Lee](https://www.leelabsg.org/)
+* [沈侠](http://www.shen.se/)
+* [杨剑](https://yanglab.net/)
 
 
 ## Comments
