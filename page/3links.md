@@ -47,6 +47,7 @@ type: page
 * 行疆之路 [youtube](https://www.youtube.com/channel/UCi7SRwf5UjG4_ALGyOIHFFA) [bilibili](https://space.bilibili.com/19515012/)
 * 集智俱乐部 [bilibili](https://space.bilibili.com/233204821/) [集智学园](https://campus.swarma.org/)
 * [JRNLclub](https://jrnlclub.org/)
+* [Science Cafe in China](https://app2vwrtxze6251.h5.xiaoeknow.com/)
 
 ## Group
 * [Bogdan Pasaniuc](https://bogdan.dgsom.ucla.edu/pages/)
