@@ -30,6 +30,7 @@ type: page
 * [Wouter De Coster](https://gigabaseorgigabyte.wordpress.com/)
 * [Xiaole Shirley Liu](http://www.longwoodgenomics.org/)
 * [谭波宇](https://www.tanboyu.com/)
+* [William Gilks](https://sites.google.com/view/williamgilks/)
 
 
 ## Casual reading
