@@ -31,6 +31,7 @@ type: page
 * [Xiaole Shirley Liu](http://www.longwoodgenomics.org/)
 * [谭波宇](https://www.tanboyu.com/)
 * [William Gilks](https://sites.google.com/view/williamgilks/)
+* [Lingyun Xiong](https://lingyunxiong.github.io/)
 
 
 ## Casual reading
